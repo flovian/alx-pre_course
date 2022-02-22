@@ -1,6 +1,12 @@
 <<<<<<< HEAD
+"The school is open!"
+||||||| 0a5415a
+The school is open
+=======
+<<<<<<< HEAD
 #!/bin/bash
 echo "School"
 =======
 The school is open
 >>>>>>> update_script
+>>>>>>> master
